@@ -13,6 +13,6 @@ if (!$conn) {
 }
 
 // THIS IS THE FEEDBACK LINE
-echo "<h1>Success!</h1>";
-echo "<p>Connected successfully to the study_group_db database.</p>"; 
+//echo "<h1>Success!</h1>";
+//echo "<p>Connected successfully to the study_group_db database.</p>"; 
 ?>
